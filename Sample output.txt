@@ -1,0 +1,33 @@
+Sample output:
+
+Enter the number of students: 3
+
+Enter student 1 name: sravani
+Enter marks for sravani: 85
+
+Enter student 2 name: madeena
+Enter marks for madeena: 92
+
+Enter student 3 name: swathi
+Enter marks for swathi: 95
+
+--- Student Records ---
+sravani : 85.0 marks
+madeena : 92.0 marks
+swathi : 95.0 marks
+
+Enter student name to search: swathi
+swathi scored 95.0 marks.
+
+--- Students Sorted by Marks ---
+sravani : 85.0 marks
+madeena : 92.0 marks
+swathi : 95.0 marks
+
+Highest Score: 95.0
+Top Student(s):
+swathi
+
+Lowest Score: 85.0
+Student(s) with Lowest Score:
+sravani
